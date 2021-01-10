@@ -1,6 +1,6 @@
 #
 # client.py
-# Written by: Daniel Dukeshire, Thomas Durkin, Chris Pence, Chris Allen
+# Written by: Daniel Dukeshire
 # Date: 11.30.2020
 # The sensors running (a running client) process commands given via standard input,
 # and react to messages received from the control server.

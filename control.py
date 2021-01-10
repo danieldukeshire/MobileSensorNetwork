@@ -1,6 +1,6 @@
 #
 # control.py
-# Written by: Daniel Dukeshire, Thomas Durkin, Chris Pence, Chris Allen
+# Written by: Daniel Dukeshire
 # Date: 11.30.2020
 # This is a control server used to relay TCP messages between sensors (clients)
 # and manage messages that are moving between base stations .
